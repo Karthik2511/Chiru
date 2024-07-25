@@ -1,0 +1,2 @@
+javac DijkstraAlgorithm.java
+java DijkstraAlgorithm
